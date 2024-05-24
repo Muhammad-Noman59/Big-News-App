@@ -19,6 +19,7 @@ Big News is a news app that helps you stay updated with the latest news. It is b
 - **Search News**: You can search for any news article.
 - **User Interface**: The app has a smooth and interactive user interface built with Jetpack Compose.
 - **Interactive Elements**: The app includes various interactive elements such as Alert Dialogs, Modal Bottom Sheets, and a Modal Navigation Drawer.
+- **Shimmer Effect**: Utilizes the shimmer effect to enhance the loading experience for news images.
 
   
 
@@ -31,6 +32,9 @@ https://github.com/Muhammad-Noman59/Big-News-App/assets/164490322/a6df8494-aa2f-
 ### Languages and Frameworks
 - **Kotlin**: The main programming language used to build the app.
 - **Jetpack Compose**: Used for creating the user interface.
+
+### Architecture
+- **MVVM (Model-View-ViewModel)**: The app follows the MVVM architecture pattern, which separates the presentation layer from the business logic and data model.
 
 ### Libraries
 - **Retrofit**: Used for making network requests and fetching news data from the internet.
