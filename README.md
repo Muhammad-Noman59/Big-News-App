@@ -1,3 +1,6 @@
+ <img alt="gfi" src="https://github.com/Muhammad-Noman59/Big-News-App/blob/master/GitHub-Big-News-Banner.jpg">
+
+
 # Big News
 
 Big News is a news app that helps you stay updated with the latest news. It is built using Jetpack Compose and Kotlin. The app uses several libraries to make the experience smooth and enjoyable. You can browse news by different categories or search for specific news articles.
@@ -35,6 +38,9 @@ https://github.com/Muhammad-Noman59/Big-News-App/assets/164490322/a6df8494-aa2f-
 - **Coil**: Used for loading images.
 - **Swipe Refresh**: Used to refresh the news feed by pulling down.
 
+### API
+- **NewsAPI**: The app fetches news data from [NewsAPI](https://newsapi.org/). You will need to sign up and obtain an API key to use the service.
+
 ## Upcoming Features
 
 We are continuously working on improving Big News. Here are some upcoming features you can look forward to:
@@ -59,7 +65,11 @@ We are continuously working on improving Big News. Here are some upcoming featur
 
 3. **Sync Gradle**: Sync the project with Gradle files.
 
-4. **Run the App**: Run the app on an emulator or a physical device.
+4. **Obtain API Key**: Sign up at [NewsAPI](https://newsapi.org/) to get your API key.
+
+5. **Configure API Key**: Add your API key to the project by modifying the configuration file.
+
+6. **Run the App**: Run the app on an emulator or a physical device.
 
 ## Usage
 
