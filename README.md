@@ -19,7 +19,7 @@ Big News is a news app that helps you stay updated with the latest news. It is b
 - **Search News**: You can search for any news article.
 - **User Interface**: The app has a smooth and interactive user interface built with Jetpack Compose.
 - **Interactive Elements**: The app includes various interactive elements such as Alert Dialogs, Modal Bottom Sheets, and a Modal Navigation Drawer.
-- **Shimmer Effect**: Utilizes the shimmer effect to enhance the loading experience for news images.
+- **Shimmer Effect**: Utilizes the shimmer effect to enhance the loading experience for news tiles.
 
   
 
